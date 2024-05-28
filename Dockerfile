@@ -1,2 +1,2 @@
 FROM jfu888/jsxx
-USER 10014
+USER 10001
